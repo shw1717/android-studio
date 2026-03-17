@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364377447109",
+    "project_id": "wedo-50d50",
+    "storage_bucket": "wedo-50d50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364377447109:android:ff760c8b78287616c82eac",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5P6_v2actoOAYP7UxFHD-mIbB3cOHE0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
