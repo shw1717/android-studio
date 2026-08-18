@@ -83,7 +83,7 @@ Naver Maps SDK를 활용하여 사용자의 현재 위치와 주변 안전 정�
 - 종합병원
 - 지진 옥외대피소
 
-![메인 지도](images/main-map.png)
+<img src="images/main-map.jpg" width="300">
 
 ---
 
@@ -98,7 +98,7 @@ Naver Maps SDK를 활용하여 사용자의 현재 위치와 주변 안전 정�
 - 지진 옥외대피소
 - 스쿨존 사고다발지역
 
-![안전 필터](images/safety-filter.png)
+<img src="images/safety-filter.jpg" width="300">
 
 ---
 
@@ -106,9 +106,9 @@ Naver Maps SDK를 활용하여 사용자의 현재 위치와 주변 안전 정�
 
 지역 주민이 주변에서 발생한 사건·사고 및 안전 관련 정보를 공유할 수 있는 커뮤니티 기능입니다.
 
-![게시판](images/board.png)
+<img src="images/board.jpg" width="300">
 
-![게시글 상세](images/board-detail.png)
+<img src="images/board-detail.jpg" width="300">
 
 ---
 
@@ -116,7 +116,7 @@ Naver Maps SDK를 활용하여 사용자의 현재 위치와 주변 안전 정�
 
 긴급 상황에서 신고 기능을 이용할 수 있도록 구성했습니다.
 
-![긴급 신고](images/emergency.png)
+<img src="images/emergency.jpg" width="300">
 
 ---
 
@@ -124,7 +124,7 @@ Naver Maps SDK를 활용하여 사용자의 현재 위치와 주변 안전 정�
 
 재난 및 안전사고 발생 시 상황별 행동요령을 확인할 수 있습니다.
 
-![국민행동요령](images/safety-guide.png)
+<img src="images/safety-guide.jpg" width="300">
 
 ---
 
@@ -132,7 +132,7 @@ Naver Maps SDK를 활용하여 사용자의 현재 위치와 주변 안전 정�
 
 재난 및 안전 관련 뉴스를 확인할 수 있도록 구성했습니다.
 
-![재난 안전 뉴스](images/safety-news.png)
+<img src="images/safety-news.jpg" width="300">
 
 ---
 
@@ -140,9 +140,9 @@ Naver Maps SDK를 활용하여 사용자의 현재 위치와 주변 안전 정�
 
 이메일/비밀번호 및 Google 로그인을 지원합니다.
 
-![로그인](images/login.png)
+<img src="images/login.jpg" width="300">
 
-![회원가입](images/signup.png)
+<img src="images/signup.jpg" width="300">
 
 > Firebase 인증 관련 기능은 팀원이 담당했습니다.
 
@@ -186,7 +186,7 @@ Naver Maps SDK를 활용하여 사용자의 현재 위치와 주변 안전 정�
 
 ## 🏗️ 시스템 구성
 
-![시스템 구성](images/architecture.png)
+<img src="images/architecture.png" width="300">
 
 ```text
 ┌─────────────────────────────┐
